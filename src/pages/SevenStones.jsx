@@ -65,11 +65,11 @@ const SevenStones = () => {
                 </div>
                 <ul className='guidlines'>
                     <li>
-                    Nilanshi Patel | 7984735360
+                    Kandarp Jani  | 9909978744
                     </li>
-                    <li>
+                    {/* <li>
                     Saurabh Vyawahare | 8767705536
-                    </li>
+                    </li> */}
                 </ul>
                 <div className="register-button">
                     <Link to="/games/seven-stones-registration">Register Now</Link>

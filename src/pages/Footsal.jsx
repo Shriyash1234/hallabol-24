@@ -41,7 +41,7 @@ const Footsal = () => {
                 </div>
                 <ul className='guidlines'>
                     <li>
-                        There will be 2 halves of 8 minutes each, with a half-time break of 5 minutes in between but when its round of 8, there would be 2 halves of 10 minutes each, with a half-time break of 5 minutes
+                    There will be 2 halves of 8 minutes each, with a half-time break of 5 minutes in between but during quarter finals, there will be 2 halves of 10 minutes each, with a half-time break of 5 minutes.
                     </li>
                     <li>
                         When the ball hits the basket in the court, it will be considered as out.
@@ -52,9 +52,9 @@ const Footsal = () => {
                     <li>
                         In case of outside, the team should start the play with a kick from the outside line.
                     </li>
-                    <li>
+                    {/* <li>
                         A player can score a goal only after entering the opposite team's half of the court.
-                    </li>
+                    </li> */}
                     <li>
                         A team committing a total of 3 fouls will be awarded a one-step penalty against them.
                     </li>
@@ -85,29 +85,27 @@ const Footsal = () => {
                 </div>
                 <ul className='guidlines'>
                     <li>
-                        Shubh Lavti,
-                        Abhishek Janagal,
-                        Preet Shah,
+                    Mang, 
+Akshay Raj Shinigami,
+Justin H,
+Harsh Mehta ,
+Nirmay ,
+Shrenik ,
+Md. Aslam,
+Lobsang Kom,
+Stephen Singsit,
+Pranav Rathod,
+Shiv Parmar,
+Kushal Rathod,
+Adwaith P ,
+Swayam Koregave,
+Madhav Biswam,
+Anurag J Vishal,
+Tongkhohao Touthang,
+Jagroop Singh,
+Akash KP,
+Sumedh
 
-                        Swar Upadhya,
-
-                        Manas Mulpuri,
-                        Shivam Rai,
-                        Stephen Singsit,
-                        Madhav Biswam,
-                        Saurabh Vyawahare,
-                        Pranav Rathore,
-                        Pramod Limbore,
-                        Dhawal Kabra,
-                        Anshu Kale,
-                        Soham Rahatal,
-                        Swayam Koregave,
-                        Anurag Vishal,
-                        Jimik,
-                        Akshay (Shinigami),
-                        Vikram Negi,
-                        Thengliangmang Haokip, 
-                        Harsh Mehta(Sir)
                     </li>
 
 
@@ -120,11 +118,14 @@ const Footsal = () => {
                 </div>
                 <ul className='guidlines'>
                     <li>
-                        Sachin Bhardwaj | 8853134595
+                    Anurag | 7738957332
 
                     </li>
                     <li>
-                        Anurag Vishal | 7738957332
+                    Adwaith | 8547617665
+                    </li>
+                    <li>
+                    Manas | 6360665240
                     </li>
                 </ul>
                 <div className="register-button">

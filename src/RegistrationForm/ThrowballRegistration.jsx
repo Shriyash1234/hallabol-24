@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 const ThrowballRegistration = () => {
     const [message, setMessage] = useState('');
     const [isLoading, setIsLoading] = useState(false);
-    const scriptURL = 'https://script.google.com/macros/s/AKfycbzfkFw1aB66z-bz8X5WBWnOm4QkqK_wqkP2JqdqSbTm13GtJxmEQDOE43OSqN7ROr7Q/exec';
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbzx8Ufh2KrhF4bIu5KaDVA8FxB-9W39Is-W7IBQBtGdtqkiNjP27QdVihTR2nE1GOqAkQ/exec';
 
     const handleSubmit = async (e) => {
         e.preventDefault();

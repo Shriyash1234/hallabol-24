@@ -16,7 +16,23 @@ const GullyCricket = () => {
                     <h2>Pool Players: </h2>
                 </div>
                 <ul className='guidlines'>
-                    <li>Aaqib Khan, Shridhar Pawar, Paras Jain, Sakib, Harsh Dhudhatra, Pulkit Verma, Ashwani Rai, GB Harshvardhan, Kaushik Kunte, Rahul Kumar, Rohan Naika, Mohit Singh, Khantil Patel, Venkateshwar Singhal, Pranav Kanwant, Pushkar Parakh</li>
+                    <li>Aaqib,
+Sakib,
+Jatin,
+Nesar,
+Bhushan,
+Umashankar,
+Digvijay,
+Mohit,
+Venkteshwar,
+Ankit,
+Abhinav,
+Hansin,
+Aman,
+Kaushik,
+Pushkar,
+Pulkit
+</li>
                 </ul>
                 <div className="sports-item-heading">
                     <h2>Team Formation Rules:</h2>
@@ -41,12 +57,12 @@ const GullyCricket = () => {
                     <h2>Game Rules:</h2>
                 </div>
                 <ul className='guidlines'>
-                    <li>Each inning would be 6 overs.</li>
-                    <li>Maximum 2 players can bowl 2 overs each. A girl must bowl at least 1 over.</li>
+                    <li>Each inning would be 5 overs.</li>
+                    <li>Maximum 1 players can bowl 2 overs. A girl must bowl at least 1 over.</li>
                     <li>In the girl’s over, the bowling team can dismiss the batsman by catching the ball on one bounce and in one hand.</li>
                     <li>The total number of runs scored by a girl will be doubled. Also, when a girl is
                         batting, and the ball touches the bat, provided that it is a dot ball, then one run will be added to the total. All other rules regarding runs will be announced before the match.</li>
-                    <li>The batting team is allowed to take a "Hallabol Over", in which runs scored by the batting team will be doubled. At the same time, in this over, the bowling team can dismiss the batsman by catching the ball on one bounce and in one hand. The decision to take the "Hallabol Over" should be made before the start of the over. It’s compulsory for every team to take “Hallabol Over.” The batting team has to announce the Hallabol Over first, and then the bowling may choose which bowler will bowl that particular over.</li>
+                    <li>Hallabol over <span style={{color:"#F00"}}>*Surprise*</span> (it’s not what you think it is).</li>
                     <li>All the usual international rules like wide, no balls are ON.</li>
                     <li>A player can be declared ‘retired hurt’ only after completing an over. However,
                         retired players can bat again only after every remaining player gets out.</li>
@@ -61,13 +77,10 @@ const GullyCricket = () => {
                 </div>
                 <ul className='guidlines'>
                     <li>
-                    Venkteshwar Singhal | 9929449906
+                    Deepak soni | 9376167073
                     </li>
                     <li>
-                    Nesar Joshi | 9049138442
-                    </li>
-                    <li>
-                    Pulkit Verma | 7597055144
+                    Yogendra | 9652725171
                     </li>
                 </ul>
                 <div className="register-button">

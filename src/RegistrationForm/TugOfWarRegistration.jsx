@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 const TugOfWarRegistration = () => {
     const [message, setMessage] = useState('');
     const [isLoading, setIsLoading] = useState(false);
-    const scriptURL = 'https://script.google.com/macros/s/AKfycbyDFZoQEoe-qZBOw07GB1oy-ARjlJnNoe4srQUOzonHjT91Lu2JzeAcHYHzfD_5ma44qw/exec';
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbwVrn7-pbjDOlOVXtxtLwYQegXohVZF-ki9c1W1T9DJE4FEBJGCKGa-r2YxsBOE3XEI/exec';
 
     const handleSubmit = async (e) => {
         e.preventDefault();

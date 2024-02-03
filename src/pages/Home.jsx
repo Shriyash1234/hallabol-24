@@ -29,7 +29,7 @@ const Home = () => {
     return (
         <div>
             <Helmet>
-                <title>Hallabol'23</title>
+                <title>Hallabol'24</title>
             </Helmet>
             <div className='main-container'>
                 <div className="banner">
@@ -57,15 +57,15 @@ const Home = () => {
 
                 <div className="section">
                     <div className="about">
-                        <h2>Get ready for the ultimate <span className="about-span">11-day </span>extravaganza! Hallabol 11th edition is about to ignite the campus with non-stop action, thrill, and excitement. This is your chance to experience <span className="about-span">11 unforgettable nights</span> of pure fun and friendly competition. Get your game face on and join the party as the institute comes together for HallaBol - the most epic annual sports festival of all time! From  <span className="about-span">11th to 26th February</span>, get ready to mark your calendars and be a part of history. So, gear up for 11 nights of madness, <span className="about-span">11 games</span> of glory, and 11 days of memories that will last a lifetime! Let's do this!</h2>
+                        <h2 style={{fontSize:"24px"}}>Get ready for the ultimate <span className="about-span">12-day </span>extravaganza! Hallabol 12th edition is about to ignite the campus with non-stop action, thrill, and excitement. This is your chance to experience <span className="about-span">12 unforgettable nights</span> of pure fun and friendly competition. Get your game face on and join the party as the institute comes together for HallaBol - the most epic annual sports festival of all time! From  <span className="about-span">3th to 13th February</span>, get ready to mark your calendars and be a part of history. So, gear up for 11 nights of madness, <span className="about-span">12 games</span> of glory, and 11 days of memories that will last a lifetime! Let's do this!</h2>
                     </div>
                     <div className="sponsors-section">
-                    <div className="section-heading" style={{ marginTop: "100px" }}>
+                    {/* <div className="section-heading" style={{ marginTop: "100px" }}>
                             <h1>Powered by</h1>
                         </div>
                         <div className="sponsors-logo">
                             <a href='https://www.ongcindia.com/' target="_blank" rel="noreferrer"><img src={ONGCLogo} /></a>
-                        </div>
+                        </div> */}
                         
 
                     </div>
@@ -86,7 +86,7 @@ const Home = () => {
                     </div>
 
                     <div className="about">
-                        <h2>Mark your calendars for some of the best and happening nights at IITGN! Yes, we are talking about HallaBol - yayyy - will set the ground on fire from 11-16 Feb and 20-26 Feb! Here's to 11 nights that you will never forget!</h2>
+                        <h2 style={{fontSize:"24px"}}>Mark your calendars for some of the best and happening nights at IITGN! Yes, we are talking about HallaBol - yayyy - will set the ground on fire from 3-14 Feb! Here's to 12 nights that you will never forget!</h2>
                     </div>
 
 

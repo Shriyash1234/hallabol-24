@@ -16,7 +16,7 @@ const KhoKho = () => {
                     <h2>Team Formation Rules:</h2>
                 </div>
                 <ul className='guidlines'>
-                <li>The total number of players in each team will be 9 (7 on-field + 2 substitutes).</li>
+                <li>The total number of players in each team will be 8.The number of substitutes can be 1 or 2.</li>
                 <li>Each team should contain at least one female player.</li>
                 <li>The team should comprise of players from a minimum of two different batches on year basis. (eg, BTech ‘20, MTech ‘21, PhD ‘22).</li>
                 <li>There should not be more than 5 players of the same batch.</li> <li> A registered player can only play for one team.</li>
@@ -125,10 +125,10 @@ running (being chased)) for the first 2 rounds of the tournament and 10 minutes 
                 </div>
                 <ul className='guidlines'>
                     <li>
-                    Vivek Singh | +91 6200673391 
+                    Omkar Rajeev Prabhu  | +91 8310831731
                     </li>
                     <li>
-                    Ashok Meena | +91 9352096300
+                    Pawan seth | +91 8960681188
                     </li>
                 </ul>
                 <div className="register-button">

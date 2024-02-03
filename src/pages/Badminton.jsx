@@ -17,7 +17,21 @@ const Badminton = () => {
                 </div>
                 <ul className='guidlines'>
 
-                    <li>Pool players: Anil Kataria, gaurav rawat, ksheer agrawal, varad sardeshpande, praanshu sharan, Prudhvi sunil, surbhi khewle, siddhi surawar, hrishitha sivakumar, siddharth shah, vedangraj vala and coaches (Rony damor and nitin makwana).</li>
+                    <li>Pool players: Anil Kataria,
+Varad Sardespande,
+Gaurav Kumar Rawat,
+Shriniket behera,
+Keertan varma,
+Surbhi khewle,
+Eesha Kulkarni,
+Hrishitha sivakumar,
+Prudhvi Sunil,
+Rishab Jain,
+Praanshu Saran,
+Ksheer agrawal,
+Siddharth Shah,
+Rony damor
+.</li>
                         <li>There will be 4 players in each team.</li>
                         <li>If there’s a non-pool girl in the team they would get an additional advantage of 4 points
                             (i.e the game would start from 4-0) and if there are two or more girls in the team, the
@@ -61,7 +75,7 @@ const Badminton = () => {
                                 Anil Kataria | 8385813914
                              </li>
                                 <li>
-                                Naval Jaggi | 9068145137
+                                Keerthan Verma  | 8985139469
                                 </li>
                             </ul>
                             <div className="register-button">

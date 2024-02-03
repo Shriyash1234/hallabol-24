@@ -20,7 +20,7 @@ const Footer = () => {
       </div>
 
       <div className="footer-nav">
-        <h3>Copyright © Hallabol 2023</h3>
+        <h3>Copyright © Hallabol 2024</h3>
       </div>
     </div>
 

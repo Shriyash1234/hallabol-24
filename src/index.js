@@ -19,6 +19,7 @@ import GullyCricket from './pages/GullyCricket';
 import SevenStones from './pages/SevenStones';
 import KhoKho from './pages/KhoKho';
 import Throwball from './pages/Throwball';
+import Chess from './pages/chess';
 import FutsalRegistration from './RegistrationForm/FutsalRegistration';
 import BadmintonRegistration from './RegistrationForm/BadmintonRegistration';
 import FootvolleyRegistration from './RegistrationForm/FootvolleyRegistration';
@@ -27,11 +28,11 @@ import DodgeballRegistration from './RegistrationForm/DodgeballRegistration';
 import SevenStonesRegistration from './RegistrationForm/SevenStonesRegistration';
 import GullyCricketRegistration from './RegistrationForm/GullyCricketRegistration';
 import CarromRegistration from './RegistrationForm/CarromRegistration';
+import ChessRegistration from './RegistrationForm/ChessRegistration';
 import ThrowballRegistration from './RegistrationForm/ThrowballRegistration';
 import KhoKhoRegistration from './RegistrationForm/KhoKhoRegistration';
 import TugOfWar from './pages/TugOfWar';
 import TugOfWarRegistration from './RegistrationForm/TugOfWarRegistration';
-import Sponsors from './pages/Sponsors';
 import ScrollToTop from './components/ScrollToTop';
 // import Gallery from './pages/Gallery';
 
@@ -47,7 +48,6 @@ root.render(
       <Route path="/games" element={<Games/>} />
       {/* <Route path="/gallery" element={<Gallery/>} /> */}
       <Route path="/our-team" element={<Team />} />
-      <Route path="/sponsors" element={<Sponsors />} />
       <Route path="/games/futsal" element={<Footsal/>} />
       <Route path="/games/badminton" element={<Badminton/>} />
       <Route path="/games/carrom" element={<Carrom/>} />
@@ -59,6 +59,7 @@ root.render(
       <Route path="/games/kho-kho" element={<KhoKho/>} />
       <Route path="/games/throwball" element={<Throwball/>} />
       <Route path="/games/tug-of-war" element={<TugOfWar/>} />
+      <Route path="/games/chess" element={<Chess/>} />
 
       <Route path="/games/futsal-registration" element={<FutsalRegistration/>} />
       <Route path="/games/4-a-side-baddy-registration" element={<BadmintonRegistration/>} />
@@ -71,6 +72,7 @@ root.render(
       <Route path="/games/throwball-registration" element={<ThrowballRegistration/>} />
       <Route path="/games/kho-kho-registration" element={<KhoKhoRegistration/>} />
       <Route path="/games/tug-of-war-registration" element={<TugOfWarRegistration/>} />
+      <Route path="/games/chess-registration" element={<ChessRegistration/>} />
 
 
     </Routes>

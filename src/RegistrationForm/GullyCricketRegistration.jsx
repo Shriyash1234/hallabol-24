@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 const GullyCricketRegistration = () => {
     const [message, setMessage] = useState('');
     const [isLoading, setIsLoading] = useState(false);
-    const scriptURL = 'https://script.google.com/macros/s/AKfycbz12yiLfsdjIEmn_J1kFuSoq9P-_0q-mYXZkaUHSW7qMzvSnFEWtK_RcLmop_rr_8wm/exec';
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbxZMW7R5f3n2rBcg5SOIIXl2k46l8b3HRV_LjJzYSnmjemkYGQpCDojkTjRjRgEHWxwag/exec';
 
     const handleSubmit = async (e) => {
         e.preventDefault();

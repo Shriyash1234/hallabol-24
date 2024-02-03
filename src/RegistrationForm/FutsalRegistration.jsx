@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 const FutsalRegistration = () => {
     const [message, setMessage] = useState('');
     const [isLoading, setIsLoading] = useState(false);
-    const scriptURL = 'https://script.google.com/macros/s/AKfycbx7d2LOA9jRrya8oUsNbGBiHG_8Yw937vYDkFzbk1DhhCQRMcTlWrmzBG-672cBOPQ-/exec';
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbyyb7ubHCkb56hJ9EhWwktpWXW93TOTxHpEw5JgMpPohJgN7ZUqW95At8tCg8xzQwfr/exec';
 
     const handleSubmit = async (e) => {
         e.preventDefault();

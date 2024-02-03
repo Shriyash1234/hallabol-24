@@ -158,12 +158,12 @@ const Carrom = () => {
                     <h2>For any queries contact :</h2>
                 </div>
                 <ul className='guidlines'>
-                    <li>
+                    {/* <li>
                     Keshav Kumar | 9057848652
                     </li>
                     <li>
                     Archit Bahirat | 9284743592
-                    </li>
+                    </li> */}
                 </ul>
                 <div className="register-button">
                 <Link to="/games/carrom-registration">Register Now</Link>

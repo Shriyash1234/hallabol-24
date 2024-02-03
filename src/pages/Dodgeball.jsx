@@ -65,14 +65,14 @@ const Dodgeball = () => {
                     <h2>For any queries contact :</h2>
                 </div>
                 <ul className='guidlines'>
-                    <li>
+                    {/* <li>
                         Sumanto Dutta | 7857958401
 
 
                     </li>
                     <li>
                         Rohan Naika | 8980274770
-                    </li>
+                    </li> */}
                 </ul>
                 <div className="register-button">
                     <Link to="/games/dodgeball-registration">Register Now</Link>

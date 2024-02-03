@@ -62,12 +62,9 @@ const Throwball = () => {
                 </div>
                 <ul className='guidlines'>
                     <li>
-                    Tanvi Yadav | 9166218966
+                    Aditi Parashar  | 7267923282
 
 
-                    </li>
-                    <li>
-                    Manvendra Singh Songara | 9479943493
                     </li>
                 </ul>
                 <div className="register-button">

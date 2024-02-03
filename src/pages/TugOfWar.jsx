@@ -17,23 +17,25 @@ const TugOfWar = () => {
                 </div>
                 <ul className='guidlines'>
                     <li>The competition will be divided into Male and Female categories.
-                    </li><li>Team should have members from at least 2 different batches (Staff and Faculty will be considered as different batches).
+                    </li><li>The team should consist of 6 players, of which 5 will be on-field players, and 1 will be a
+substitute player
 
-                    </li><li>For Male category, the team should consist of 5 on-field players and 1 substitute player (A total of 6 per team).
+                    </li><li>The team should have members from at least 2 different batches. (Staff and Faculty will
+be considered as different batches).
 
-                    </li><li>For Female category, the team should consist of 5 on-field players and 1 substitute player (A total of 6 per team).
+
+                    </li><li>There is a weight restriction for each team; for the male category, the total weight of the
+on-field players cannot exceed 380kgs, and for the female category, the total weight of the
+on-field players cannot exceed 350kgs.
+
 
                     </li>
                     <li>
-                        For Male participants, the sum of weight of each on-field player should not
-                        be more than 380 kg(strictly).
+                    There will be a surprise element of the game, which will be disclosed before the game
+starts.
 
                     </li>
-                    <li>
-                        For Female category, the sum of weight of each on-field player should not be more than 350 kg(strictly).
 
-
-                    </li>
                     <li>
                         There will be a surprise element to the game which will be disclosed before the game. (Hint: One team member needs to be able to lead the group to victory).
 
@@ -44,15 +46,23 @@ const TugOfWar = () => {
                     <h2>Game Rules:</h2>
                 </div>
                 <ul className='guidlines'>
-                    <li>Two teams will participate in a match and will be holding rope from two ends.</li>
-                    <li>The aim of the team is to pull the rope towards their side.</li>
-                    <li>There will be 3 rounds of 1 minute.</li>
-                    <li>There will be a point system consisting of 5 and 10 points.</li>
-                    <li>If there is a draw after 3 rounds there will be a sudden death round of 30 seconds.</li>
-                    <li>Nothing that could be used as a grip should be present on the hands(strictly).</li>
-                    <li>Rope has to be pulled with the palms of hands. Wrapping rope around the hand is not allowed.</li>
+                    {/* <li>Two teams will participate in a match and will be holding rope from two ends.</li> */}
+                    <li>Two teams will participate in a match and hold the rope from two ends</li>
+                    <li>A total of 3 rounds will be conducted to decide the winner. The Final will consist of 5
+rounds.</li>
+                    <li>A toss will decide which end is allotted to which team.</li>
+                    <li>Teams will have to change ends after every round.</li>
+                    <li>A mark will be in the centre, and two lines equidistant from the centre will be marked on
+the ground for each end. The team that pulls the central mark beyond the line on its end
+will be declared the winner of that round.
+</li>
+                    <li>Nothing that could be used as a grip should be present on the hands (chalk powder is also
+not allowed)</li>
+                    <li>The rope has to be pulled with the palms of the hands. Wrapping rope around the hand
+is not allowed.</li>
                     <li>Every participant has to be barefoot throughout the match.</li>
-                    <li>Referee decision will be considered as the final decision.</li>
+                    <li>The referee's decision will be considered the final decision.</li>
+
 
                 </ul>
 
@@ -64,7 +74,9 @@ const TugOfWar = () => {
                     <li>Teams are expected to arrive before their given match time.
 
                     </li>
-                    <li>Any offensive team name will have its registration terminated.</li>
+                    <li>Every team will be weighed before the match, if overweight, there will be consequences.</li>
+                    <li>Any team with an offensive name will be asked to change its name; if the team disagrees,
+its registration will be terminated.</li>
 
 
                 </ul>
@@ -74,13 +86,14 @@ const TugOfWar = () => {
                 </div>
                 <ul className='guidlines'>
                     <li>
-                        Nikhil Borase | 8329098854
+                        Nikhil Borase | 9657904234
 
 
                     </li>
                     <li>
-                        Shiv Parmar | 9106046773
+                    Shreyash Agrawal  | 9754007866
                     </li>
+                    <li>Kshitij Giri | 7990614365</li>
                 </ul>
                 <div className="register-button">
                     <Link to="/games/tug-of-war-registration">Register Now</Link>

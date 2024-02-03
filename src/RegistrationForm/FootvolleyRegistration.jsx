@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 const FootvolleyRegistration = () => {
     const [message, setMessage] = useState('');
     const [isLoading, setIsLoading] = useState(false);
-    const scriptURL = 'https://script.google.com/macros/s/AKfycbz3gmhCfq8MBDstCppP5F8zpiwZ_HSCkYKF32tUFEtUy-rlpzXp03HXIK6Ws_eno8V3/exec';
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbxHN9GMBGdxksaeS402p251x6qKlzuw8yiv9ILXXay0p5CNIU1IgPvpjdZNB5S55vUf/exec';
 
     const handleSubmit = async (e) => {
         e.preventDefault();

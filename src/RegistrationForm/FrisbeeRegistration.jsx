@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 const FrisbeeRegistration = () => {
     const [message, setMessage] = useState('');
     const [isLoading, setIsLoading] = useState(false);
-    const scriptURL = 'https://script.google.com/macros/s/AKfycbyiTGWC21GfTe7IXf-o77nItkJWfix9eDFEPuQ2Bh6qpYA3K2OW93kzcyPXtSVoPGvvYA/exec';
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbyO6QLoaks8CAo23FDUCxMd4lS1C2_7gw6RwNTh6Pp070QI-vm8sn8NnVzxCDgMX7ZG/exec';
 
     const handleSubmit = async (e) => {
         e.preventDefault();

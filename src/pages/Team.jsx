@@ -32,21 +32,21 @@ const Team = () => {
           <div className="our-team">
 
             <div className="team-item">
-              <img src={Akhilesh} />
+              <img src={AmanSamaria} />
               <div className="team-item-caption">
-                <p>Akhilesh Chauhan</p>
+                <p>Aman Samria</p>
                 <a className='contact-details' href='mailto:sports.secretary@iitgn.ac.in '>sports.secretary@iitgn.ac.in </a>
-                <p style={{color:"#f00"}}>Contact Number: 8689854792</p>
+                <p style={{color:"#f00"}}>Contact Number: 7357637225</p>
               </div>
             </div>
           </div>
 
-          <div className="team-heading">
+          {/* <div className="team-heading">
             <h3>Convenor</h3>
-          </div>
+          </div> */}
           <div className="our-team">
 
-          <div className="team-item">
+          {/* <div className="team-item">
               <img src={Abhishek} />
               <div className="team-item-caption">
                 <p>Abhishek Janagal</p>
@@ -63,11 +63,11 @@ const Team = () => {
                 <a className='contact-details' href='mailto:sunil.sl@iitgn.ac.in'>sunil.sl@iitgn.ac.in</a>
                 <p style={{color:"#f00"}}>Contact Number: 9664744729</p>
               </div>
-            </div>
+            </div> */}
             
           </div>
 
-          <div className="team-heading">
+          {/* <div className="team-heading">
             <h3>Core Members</h3>
           </div>
           <div className="our-team">
@@ -103,12 +103,12 @@ const Team = () => {
               </div>
             </div>
             
-          </div>
+          </div> */}
 
-          <div className="team-heading">
+          {/* <div className="team-heading">
             <h3>Web-Dev Team</h3>
-          </div>
-          <div className="our-team">
+          </div> */}
+          {/* <div className="our-team">
 
             <div className="team-item">
               <img src={AmanChaudhary} />
@@ -138,7 +138,7 @@ const Team = () => {
             
             
             
-          </div>
+          </div> */}
 
 
 

@@ -24,6 +24,31 @@ const FootVolley = () => {
                     
                 </ul>
                 <div className="sports-item-heading">
+                    <h2>Pool Players:</h2>
+                </div>
+                <ul className='guidlines'>
+                    <li>
+                    Anjana S A,
+Priyanka Meena,
+Swati Rawat,
+Nidhi Kumari,
+Suhani Mittal,
+Vishwa Parmar,
+Pinki Saini,
+Saloni Sinde,
+Thumma Ushashee,
+Janvi Setia ,
+Yashvi Kothia,
+Chaudhari Meshva
+
+
+                    </li>
+
+
+
+
+                </ul>
+                <div className="sports-item-heading">
                     <h2>Game Rules:</h2>
                 </div>
                 <ul className='guidlines'>
@@ -91,10 +116,10 @@ const FootVolley = () => {
                 </div>
                 <ul className='guidlines'>
                     <li>
-                    Abhinav Kumar | 62014 96650
+                    Anjana S A | 9074936379
                     </li>
                     <li>
-                    Dablu Kumar | 91359 01206
+                    Keshav Sobania | 7240638176
                     </li>
                 </ul>
                 <div className="register-button">

@@ -19,7 +19,7 @@ const Frisbee = () => {
                     <li>The total number of players in each team will be 7 (6 players on-field + 1 substitute).</li>
                     <li> Each team should contain at least one female player.</li>
                     <li>The team should comprise of players from a minimum of two different batches on year basis. (eg, BTech ‘20, MTech ‘21, PhD ‘22).</li>
-                    <li>There should not be more than 4 players of the same batch.</li>
+                    <li>There should not be more than 5 players of the same batch.</li>
                     <li>Mixed teams can be formed. teams must note that there are scoring incentives given to
                         encourage women participation.</li>
                     <li> There is no limit on the total number of Inter IIT players in a team. However, the maximum number of Inter IIT players allowed at a time on the field are 2.</li>
@@ -70,11 +70,11 @@ const Frisbee = () => {
                 </div>
                 <ul className='guidlines'>
                     <li>
-                    Akshay Meena | +91 7414041496
+                    Aditya Mehta | +91 9429428442
 
                     </li>
                     <li>
-                    Rahul Yadav | +91 8295195488
+                    Sahil Mundlod  | +91 9096001911
                     </li>
                 </ul>
                 <div className="register-button">

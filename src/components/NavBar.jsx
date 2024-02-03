@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { NavLink } from "react-router-dom";
 import "./NavBar.css";
-import Logo from "../assets/images/logo.png"
+import Logo from "../assets/images/logo-1.png"
 
 const NavBar = () => {
     const [click, setClick] = useState(false);
@@ -53,7 +53,7 @@ const NavBar = () => {
                                 Gallery
                             </NavLink>
                         </li> */}
-                        <li className="nav-item">
+                        {/* <li className="nav-item">
                             <NavLink
                                 to="/sponsors"
                                 className={({ isActive }) => (isActive ? 'active-nav' : 'nav-links')}
@@ -61,7 +61,7 @@ const NavBar = () => {
                             >
                                 Sponsors
                             </NavLink>
-                        </li>
+                        </li> */}
                         
                         <li className="nav-item">
                             <NavLink

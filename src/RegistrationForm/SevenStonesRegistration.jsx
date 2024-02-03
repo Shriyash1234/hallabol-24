@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 const SevenStonesRegistration = () => {
     const [message, setMessage] = useState('');
     const [isLoading, setIsLoading] = useState(false);
-    const scriptURL = 'https://script.google.com/macros/s/AKfycbwDEGXYrdhPYKzqfUz7_pjVvL0lFp-ByRGIuRG9iMX7mmEEyWuCZ4tPMhauFikqjppv/exec';
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbyYpjEonMSHpSzmG9Ezx_h5b-5JYQNMcgVaGbFJjOOwyp-SgzDgfanT2aKW5MOdLJYv4g/exec';
 
     const handleSubmit = async (e) => {
         e.preventDefault();

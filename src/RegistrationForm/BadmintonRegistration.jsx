@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 const BadmintonRegistration = () => {
     const [message, setMessage] = useState('');
     const [isLoading, setIsLoading] = useState(false);
-    const scriptURL = 'https://script.google.com/macros/s/AKfycbyKRcutvUPacPoywhLmynLIROfHkZSdN76ZMXxtZmnWIOM9m_zePqMRv2hz616Qm6IZkg/exec';
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbwbl_lEkasd_-r8iE5j8pGMaFv14y5fY4lftiwQ5bHn6FV5lW-iEhcG_qgvy5dxdqPRxA/exec';
 
     const handleSubmit = async (e) => {
         e.preventDefault();

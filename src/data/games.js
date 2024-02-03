@@ -53,5 +53,10 @@ export const gamesList = [
       "GameName": "Tug of war",
       "Images": require("../assets/sports/TugOfWar.jpg"),
       "Link": "/tug-of-war"
+    },
+    {
+      "GameName": "TriUnity Chess",
+      "Images": require("../assets/sports/Chess.jpg"),
+      "Link": "/chess"
     }
    ]

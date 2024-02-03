@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 const CarromRegistration = () => {
     const [message, setMessage] = useState('');
     const [isLoading, setIsLoading] = useState(false);
-    const scriptURL = 'https://script.google.com/macros/s/AKfycbzKdqp4UbZJ51CT9jKGPauHBKvKgZK6_pVQcH2TT_IwcMbxU3f1CJmuqev43mmmHyl3_A/exec';
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbxpFmXEB6tJ9O87PyHcvz7v1epd32vVuvM92cGzQnqVPYm52wvZgILacge9Fi3xCCShnQ/exec';
 
     const handleSubmit = async (e) => {
         e.preventDefault();

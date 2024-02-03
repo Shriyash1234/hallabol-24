@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 const KhoKhoRegistration = () => {
     const [message, setMessage] = useState('');
     const [isLoading, setIsLoading] = useState(false);
-    const scriptURL = 'https://script.google.com/macros/s/AKfycbxEPpLHU5E62LQ677g-lHlOhz_IEguI6mUpXB3lsty3eXNeh5k1HnMAIWGw7BAJwGE4lg/exec';
+    const scriptURL = 'https://script.google.com/macros/s/AKfycby4H6fzy23rpJqDrLlW_WV6xVbqKCx93dFO2eMB7OZzHvLs7qMEUNOmg7ABAcRG-9Q/exec';
 
     const handleSubmit = async (e) => {
         e.preventDefault();
